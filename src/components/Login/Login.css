@@ -1,0 +1,53 @@
+.form-container {
+    border: 2px solid gray;
+    border-radius: 5px;
+    width: 500px;
+    height: 500px;
+    margin: 2px auto;
+}
+
+.form-title {
+    text-align: center;
+    font-size: 35px;
+    line-height: 42px;
+    font-weight: 400;
+}
+
+.form-control {
+    margin-left: 49px;
+    margin-bottom: 25px;
+}
+
+.form-control label {
+    display: block;
+    margin-bottom: 9px;
+}
+
+.form-control input {
+    width: 415px;
+    height: 55px;
+    left: 526px;
+    top: 346px;
+    border-radius: 5px;
+    font-size: 2rem;
+}
+
+.btn-submit {
+    width: 415px;
+    height: 55px;
+    border: 2px solid gray;
+    margin-left: 49px;
+    border-radius: 5px;
+    background-color: gold;
+    color: black;
+    font-size: 19px;
+    margin-top: 1.5rem;
+}
+
+.btn-submit:hover {
+    background-color: rgb(218, 194, 61);
+}
+
+.form-container p {
+    margin-left: 100px;
+}
